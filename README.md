@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Faizan-15/Faizan-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Muhammad Faizan Ashraf
 
-Here are some ideas to get you started:
+### Computer Science Student @ IST | Aspiring ML Engineer & Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizanashraf/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.faizanashraf9@gmail.com)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Pursuing a **BS in Computer Science** at the **Institute of Space Technology (IST)**, Islamabad.
+- 💡 Passionate about **Machine Learning**, **backend systems**, and **software engineering**.
+- 🌱 Currently exploring new tech stacks and building cool projects—tinkering with ML models and backend systems to see what breaks, one Python script and broken build at a time.
