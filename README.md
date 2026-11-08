@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Muhammad Faizan Ashraf
 
-### Computer Science Student @ IST | Aspiring ML Engineer & Developer
+### Computer Science Student @ IST | Aspiring AI Engineer & Python Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizanashraf/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.faizanashraf9@gmail.com)
