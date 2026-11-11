@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Faizan Ashraf
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Faizan+Ashraf" alt="Typing SVG" />
 
 ### Computer Science Student @ IST | Aspiring AI Engineer & Python Developer
 
@@ -29,6 +29,9 @@
 ![Ubuntu WSL](https://img.shields.io/badge/Ubuntu%20(WSL)-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### 🎯 Focus Areas
+`Artificial Intelligence` `Machine Learning` `Backend Systems` `Task Automation` `Software Engineering`
+
 ---
 
 ### 📊 GitHub Stats
@@ -36,5 +39,11 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-15&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+### ⭐ Feel free to star a repo or reach out — always open to collaborating!
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-15&style=flat-square&color=2EC4B6" alt="Profile views" />
 
 </div>
