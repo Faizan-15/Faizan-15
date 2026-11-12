@@ -1,5 +1,3 @@
-<img width="1468" height="747" alt="image" src="https://github.com/user-attachments/assets/cf74c613-35bd-47cf-9d67-28a6ea46c34a" /><div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Faizan+Ashraf" alt="Typing SVG" />
 
 ### Computer Science Student @ IST | Aspiring AI Engineer & Python Developer
