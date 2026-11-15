@@ -37,6 +37,7 @@
 
 - ⚡ **NASCON 2026 Web Development Hackathon** — Competed as part of a 3-member development team at FAST University, Islamabad.
 - 🛠️ **Hands-On Engineering** — Building end-to-end ML pipelines, anomaly detection modules, and Linux/WSL development workflows.
+- 💼 **Summer Software Internship (2026)** — Completed a 3-month full-time AI Engineering internship building backend systems and ML workflows.
 
 ---
 
