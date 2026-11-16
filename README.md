@@ -47,6 +47,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-15&theme=tokyonight&hide_border=true" />
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-15&theme=tokyo-night&hide_border=true" />
+
 <br><br>
 
 ### ⭐ Feel free to star a repo or reach out — always open to collaborating!
