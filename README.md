@@ -14,9 +14,12 @@
 ```yaml
 Name:         Muhammad Faizan Ashraf
 Role:         CS Undergraduate | AI & Backend Developer
+Affiliation:  Institute of Space Technology (IST), Islamabad 🎓
+Location:     Islamabad, Pakistan 🇵🇰
+Focus:        [Artificial Intelligence, Machine Learning, Backend Systems, App Dev]
+Status:       Building cool projects & open to collaborations ✨
 ```
 
-- 🎓 Pursuing a **BS in Computer Science** at the **Institute of Space Technology (IST)**, Islamabad.
 - 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, **backend systems**, and **software engineering**.
 - 🌱 Currently exploring new tech stacks and building cool projects—tinkering with ML models and backend systems to see what breaks, one Python script and broken build at a time.
 
