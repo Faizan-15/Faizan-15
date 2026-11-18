@@ -53,11 +53,11 @@ Status:       Building cool projects & open to collaborations ✨
 ### 📊 GitHub Stats
 
 <div align="center">
-
+### 🔥 Streak & Total Contributions
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-15&theme=tokyonight&hide_border=true" />
 
 <br>
-
+### 📈 Monthly Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-15&theme=tokyo-night&hide_border=true" />
 
 <br><br>
