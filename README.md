@@ -65,6 +65,7 @@ Status:       Building cool projects & open to collaborations ✨
 ---
 
 <div align="center">
+
 ### ⭐ Feel free to star a repo or reach out — always open to collaborating!
 
 <img src="https://komarev.com/ghpvc/?username=Faizan-15&style=flat-square&color=2EC4B6" alt="Profile views" />
